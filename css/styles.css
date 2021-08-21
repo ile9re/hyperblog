@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
   color: rgb(42, 218, 86);
+=======
+  color: rgb(37, 15, 58);
+>>>>>>> cabecera
   text-align : left;
   font-family: Verdana, Geneva, Tahoma, sans-serif; 
   margin: 0;
